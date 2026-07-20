@@ -1,0 +1,17 @@
+---
+source_file: "agent-teams.md"
+type: "concept"
+community: "Agent Teams"
+tags:
+  - graphify/concept
+  - graphify/EXTRACTED
+  - community/Agent_Teams
+---
+
+# Subagent definitions used as teammates
+
+## Connections
+- [[Orchestrate teams of Claude Code sessions]] - `references` [EXTRACTED]
+- [[Sub-agents (external doc)]] - `references` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/Agent_Teams
