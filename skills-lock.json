@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "Obsidian Automation": {
+      "source": "claude-office-skills/skills",
+      "sourceType": "github",
+      "skillPath": "obsidian-automation/SKILL.md",
+      "computedHash": "29ceb93a77c56fa05ffade965305bd500040fed7ed4651bdfaac2fefa03429b8"
+    },
     "brainstorming": {
       "source": "obra/superpowers",
       "sourceType": "github",
