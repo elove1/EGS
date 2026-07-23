@@ -19,6 +19,12 @@
       "skillPath": "skills/caveman/SKILL.md",
       "computedHash": "d18cdf73a5f5c496d681a43a6846336b110223bdffa6817b8992529c57f1a815"
     },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "c5fe728033d2d54e265aad13a660295677df802ffbe587dca1bb270c739a85ad"
+    },
     "obsidian": {
       "source": "bitbonsai/mcpvault",
       "sourceType": "github",
